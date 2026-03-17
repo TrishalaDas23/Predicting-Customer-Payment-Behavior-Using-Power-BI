@@ -17,32 +17,37 @@ The objective of this project is to **analyze HF’s customer base using Power B
 
 The Power BI dashboard provides insights on EPS adoption across multiple dimensions:
 
-**Customer Segmentation by Firm Scale**
+**1. Customer Segmentation by Firm Scale**
+
 •  Customers are categorized as **Small, Medium, or Large firms**.
 
 •	The stacked bar chart shows total employees per firm scale, with a breakdown of **EPS adoption (“Yes” or “No”)**.
 
 •	**Large and Small firms have higher numbers of employees using EPS compared to Medium firms**.
 
-**Regional Mapping**
+**2. Regional Mapping**
+
 •	Customers are distributed across six regions: **Midwest, Midatlantic, Northeast, Southeast, Southwest, and Pacific.**
 
 •	Pie charts overlay the map showing the proportion of customers adopting EPS by region.
 
-**Total Employees by Region**
+**3. Total Employees by Region**
+
 •	A donut chart summarizes the distribution of HF employees across regions.
 
 •	Largest concentrations are in **Midwest (24.29%)** and **Midatlantic (21.63%)**, while other regions contribute smaller percentages.
 
-**EPS Adoption by Product Type**
+**4. EPS Adoption by Product Type**
+
 •	Line chart shows adoption rate for different product types: **Multiple, Loan, Lease, Quasi-lease**.
 
 •	Customers with **multiple products show the highest EPS adoption,** while **quasi-lease products have the lowest adoption rate**, possibly due to complex tax implications or less familiarity with electronic payments.
 
-**Key Metrics**
-**• Average Payment: 22.16K
+**5. Key Metrics**
 
-•	Total Employees: 3M**
+**• Average Payment: 22.16K**
+
+**•	Total Employees: 3M**
 
 •	These metrics provide context on the scale and financial magnitude of the customer base.
 
